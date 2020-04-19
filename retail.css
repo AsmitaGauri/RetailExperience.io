@@ -112,4 +112,7 @@
     .carousel-item img{
     	height:60vh !important;
     }
+ .jumbotron{
+		background-attachment: fixed !important;
+	}
 }
